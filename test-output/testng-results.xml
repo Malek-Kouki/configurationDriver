@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-06T12:19:23 CEST" name="Default suite" finished-at="2026-09-06T12:20:11 CEST" duration-ms="48269">
+    <groups>
+    </groups>
+    <test started-at="2026-09-06T12:19:23 CEST" name="Default test" finished-at="2026-09-06T12:20:11 CEST" duration-ms="48269">
+      <class name="configurationChromeDriver.ConfigurationSeleniumManager">
+        <test-method is-config="true" signature="setup()[pri:0, instance:configurationChromeDriver.ConfigurationSeleniumManager@3270d194]" started-at="2026-09-06T12:19:23 CEST" name="setup" finished-at="2026-09-06T12:19:23 CEST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="openYoutube()[pri:1, instance:configurationChromeDriver.ConfigurationSeleniumManager@3270d194]" started-at="2026-09-06T12:19:23 CEST" name="openYoutube" finished-at="2026-09-06T12:20:07 CEST" duration-ms="44080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openYoutube -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:configurationChromeDriver.ConfigurationSeleniumManager@3270d194]" started-at="2026-09-06T12:20:07 CEST" name="closeBrowser" finished-at="2026-09-06T12:20:08 CEST" duration-ms="567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="openGoogle()[pri:2, instance:configurationChromeDriver.ConfigurationSeleniumManager@3270d194]" started-at="2026-09-06T12:20:08 CEST" name="openGoogle" finished-at="2026-09-06T12:20:11 CEST" duration-ms="2970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:configurationChromeDriver.ConfigurationSeleniumManager@3270d194]" started-at="2026-09-06T12:20:08 CEST" name="setup" finished-at="2026-09-06T12:20:08 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:configurationChromeDriver.ConfigurationSeleniumManager@3270d194]" started-at="2026-09-06T12:20:11 CEST" name="closeBrowser" finished-at="2026-09-06T12:20:11 CEST" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- configurationChromeDriver.ConfigurationSeleniumManager -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
